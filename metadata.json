@@ -1,0 +1,6 @@
+{
+  "name": "WasooliPK - ISP Billing & Management",
+  "description": "Comprehensive WasooliPK clone for Internet Service Providers (ISPs) and Cable Operators featuring subscriber billing, automated WhatsApp invoicing, recovery officer management, complaints ticketing, thermal receipts, MikroTik control, and high-security PIN AppLock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
